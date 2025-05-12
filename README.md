@@ -9,7 +9,7 @@
 ## 💻 Tech Stack
 - C#, HTML/CSS (ASP.NET)
 - React / Next.js (TS & JS)
-- Java (Android)
+- Java, Flutter 
 
 🎥 Video Editing (Vegas Pro)  
 🎨 Design (Photoshop, Illustrator, Lightroom)
@@ -22,13 +22,6 @@
 > “Stay hungry, stay foolish.” — Steve Jobs
 
 > I enjoy building things that spark my interest over following rigid requirements.
-
----
-
-## 🔧 Projects
-
-[![MSOC](https://github-readme-stats.vercel.app/api/pin/?username=hidr0c&repo=msoc-tournament&theme=radical&border_color=00ffc3)](https://github.com/hidr0c/msoc-tournament)
-[![Tuyu Archives](https://github-readme-stats.vercel.app/api/pin/?username=hidr0c&repo=tuyu-archives&theme=radical&border_color=00ffc3)](https://github.com/hidr0c/tuyu-archives)
 
 ---
 
