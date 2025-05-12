@@ -58,10 +58,10 @@ Website: [hidr0.id.vn](https://hidr0.id.vn)
 
 ## Social Links
 
-[Facebook](https://www.facebook.com/h1dr0c/) •  
-[Discord](https://discord.com/users/317587311279734784) •  
-[GitHub](https://github.com/hidr0c) •  
-[YouTube](https://www.youtube.com/@hidr0712) •  
-[Email](mailto:phanxuanthai2004@gmail.com) •  
-[Steam](https://steamcommunity.com/profiles/76561199002594153/) •  
+[Facebook](https://www.facebook.com/h1dr0c/) 
+[Discord](https://discord.com/users/317587311279734784) 
+[GitHub](https://github.com/hidr0c) 
+[YouTube](https://www.youtube.com/@hidr0712) 
+[Email](mailto:phanxuanthai2004@gmail.com) 
+[Steam](https://steamcommunity.com/profiles/76561199002594153/) 
 [LinkedIn](https://www.linkedin.com/in/xu%C3%A2n-th%C3%A1i-phan-bab693352/)
