@@ -18,10 +18,13 @@
 
 ## 🧠 Mindset
 
-> “The best way to predict the future is to invent it.” — Alan Kay  
+> “The best way to predict the future is to invent it.” — Alan Kay
+
 > “Stay hungry, stay foolish.” — Steve Jobs
-> “Don’t be sad that joy has passed; be grateful that you once lived in those happy moments.” 
-> “I enjoy building things that spark my interest over following rigid requirements.”
+
+> “Don’t be sad that joy has passed; be grateful that you once lived in those happy moments.”
+
+ I enjoy building things that spark my interest over following rigid requirements.
 
 ---
 
