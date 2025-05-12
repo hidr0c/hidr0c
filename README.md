@@ -20,10 +20,14 @@ Website: [hidr0.id.vn](https://hidr0.id.vn)
 
 ## Projects
 
-- MSOC Tournament  
-- Tuyu Archives  
-- Coffee Manager  
-- Clothes Store
+[![MSOC Tournament](https://github-readme-stats.vercel.app/api/pin/?username=hidr0c&repo=msoc-tournament&theme=radical&border_color=00ffc3)](https://github.com/hidr0c/msoc-tournament)
+
+[![Tuyu Archives](https://github-readme-stats.vercel.app/api/pin/?username=hidr0c&repo=tuyu-archives&theme=radical&border_color=00ffc3)](https://github.com/hidr0c/tuyu-archives)
+
+[![Coffee Manager](https://github-readme-stats.vercel.app/api/pin/?username=hidr0c&repo=coffee-manager&theme=radical&border_color=00ffc3)](https://github.com/hidr0c/coffee-manager)
+
+[![Clothes Store](https://github-readme-stats.vercel.app/api/pin/?username=hidr0c&repo=clothes-store&theme=radical&border_color=00ffc3)](https://github.com/hidr0c/clothes-store)
+
 
 ## Other Technical Skills
 
