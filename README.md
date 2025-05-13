@@ -29,7 +29,7 @@ Driven by curiosity and a commitment to quality, I thrive in collaborative envir
 <div align="center"><strong><h2>🎮 Gamer Side</h2></strong></div>
 
 Besides being a programmer, I enjoy playing games during my free time.  
-I'm mostly active on Discord (`@hidr0`), so feel free to DM me if you're up for a match or just want to chat!
+I'm mostly active on Discord (`@hidr0`), so feel free to DM me if you're up for a game or just want to chat!
 
 Here are a few places where you can find me online:
 
