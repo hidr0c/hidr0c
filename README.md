@@ -35,7 +35,7 @@ Here are a few places where you can find me online:
 
 - **Steam**: [steamcommunity.com/id/hidr0](https://steamcommunity.com/id/hidr0)  
 - **maimai (International)**: `8090803305987`  
-- **osu!**: `Hidr0` *(DM for mutual)*  
+- **osu!**: [`Hidr0`](https://osu.ppy.sh/users/10643305) (washed out)
 - **Discord**: [`@hidr0`](https://discord.com/users/317587311279734784)
 
 ---
