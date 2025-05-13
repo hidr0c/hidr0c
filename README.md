@@ -6,15 +6,29 @@ Driven by curiosity and a commitment to quality, I thrive in collaborative envir
 - 🧩 **Event Planner & Team Leader** at Area 57 Studio  
 - 🎤 **Host** of [MSOC](https://www.linkedin.com/posts/xu%C3%A2n-th%C3%A1i-phan-bab693352_msoc-2024-my-first-step-in-esports-event-activity-7300042302784233472-0Zwe?utm_source=share&utm_medium=member_desktop) (maimai Student Open Cup)
 
----
 
-<div align="center"><strong><h2>💻 Tech Stack</h2></strong></div>
+<div align="center"><strong><h2>💻 Tech Stack & Tools</h2></strong></div>
 
-- **Languages & Frameworks**: C#, Java, HTML/CSS (ASP.NET), JavaScript / TypeScript (React, Next.js), Flutter  
-- **Tools & IDEs**: Visual Studio, VS Code, Android Studio, Git  
-- **Creative Suite**: Vegas Pro, Photoshop, Illustrator, Lightroom
+### 👨‍💻 Languages & Frameworks
+- **C# / ASP.NET** — Web backend & Windows applications  
+- **Java / Android** — Mobile development & object-oriented projects  
+- **HTML / CSS / JS** — Frontend fundamentals  
+- **JavaScript / TypeScript** — React.js & Next.js (Full-stack SPA/SSR)  
+- **Flutter** — Cross-platform mobile UI
 
----
+### 🛠️ Developer Tools
+- Visual Studio, VS Code, Android Studio  
+- Git, GitHub, CLI tools  
+- Postman, Firebase, Supabase
+
+### 🖥️ IT & Hardware
+- **PC Hardware Troubleshooting & Repairs**  
+- **Remote IT Support (Help Desk)**
+
+### 🎨 Creative Suite
+- Photoshop, Illustrator, Lightroom  
+- Vegas Pro (Video Editing)
+
 
 <div align="center"><strong><h2>🧠 Philosophy</h2></strong></div>
 
@@ -24,7 +38,6 @@ Driven by curiosity and a commitment to quality, I thrive in collaborative envir
 
 > **Curiosity drives me, but commitment keeps me going.**
 
----
 
 <div align="center"><strong><h2>🎮 Gamer Side</h2></strong></div>
 
@@ -38,7 +51,6 @@ Here are a few places where you can find me online:
 - **osu!**: [`Hidr0`](https://osu.ppy.sh/users/10643305) (washed out)
 - **Discord**: [`@hidr0`](https://discord.com/users/317587311279734784)
 
----
 
 <div align="center"><strong><h2>🏆 Gaming Achievements</h2></strong></div>
 
@@ -46,14 +58,12 @@ Here are a few places where you can find me online:
 - **2021**: Top 8 in Nooby CS:GO Tournament (Team: Rapital Junior)  
 - **2024**: Vikings League SS2 - Second place in the group stage (Team: Counter Focuz, Coach)
 
----
 
 <div align="center"><strong><h2>📊 GitHub Stats</h2></strong></div>
 
 ![Hidr0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hidr0c&show_icons=true&theme=radical&border_color=00ffc3)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hidr0c&theme=radical&border_color=00ffc3)
 
----
 
 <div align="center"><strong><h2>📫 Connect with Me</h2></strong></div>
 
