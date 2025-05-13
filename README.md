@@ -33,10 +33,18 @@ I'm mostly active on Discord (`@hidr0`), so feel free to DM me if you're up for 
 
 Here are a few places where you can find me online:
 
-- **Steam**: [steamcommunity.com/id/hidr0](https://steamcommunity.com/id/hidr0)  
+- **Steam**: [Hidr0](https://steamcommunity.com/id/hidr0)  
 - **maimai (International)**: `8090803305987`  
 - **osu!**: [`Hidr0`](https://osu.ppy.sh/users/10643305) (washed out)
 - **Discord**: [`@hidr0`](https://discord.com/users/317587311279734784)
+
+---
+
+<div align="center"><strong><h2>🏆 Gaming Achievements</h2></strong></div>
+
+- **2020**: eFire League Regular Season 2 Qualifier (Team: The Red Raven)  
+- **2021**: Top 8 in Nooby CS:GO Tournament (Team: Rapital Junior)  
+- **2024**: Vikings League SS2 - Second place in the group stage (Team: Counter Focuz, Coach)
 
 ---
 
