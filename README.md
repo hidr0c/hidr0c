@@ -17,8 +17,8 @@ Driven by curiosity and a commitment to quality, I thrive in collaborative envir
 - **Flutter** — Cross-platform mobile UI
 
 ### 🛠️ Developer Tools
-- Visual Studio, VS Code, Android Studio  
-- Git, GitHub, CLI tools  
+- Visual Studio, VS Code, Android Studio, IntelliJ IDEA 
+- Git, GitHub
 - MySQL, Firebase, SSMS, MongoDB
 
 ### 🖥️ IT & Hardware
