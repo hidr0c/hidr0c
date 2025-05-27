@@ -19,7 +19,7 @@ Driven by curiosity and a commitment to quality, I thrive in collaborative envir
 ### 🛠️ Developer Tools
 - Visual Studio, VS Code, Android Studio  
 - Git, GitHub, CLI tools  
-- MySQL, Firebase, SSMS
+- MySQL, Firebase, SSMS, MongoDB
 
 ### 🖥️ IT & Hardware
 - **PC Hardware Troubleshooting & Repairs**  
