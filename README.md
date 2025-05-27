@@ -29,16 +29,6 @@ Driven by curiosity and a commitment to quality, I thrive in collaborative envir
 - Photoshop, Illustrator, Lightroom  
 - Vegas Pro (Video Editing)
 
-
-<div align="center"><strong><h2>🧠 Philosophy</h2></strong></div>
-
-> “The best way to predict the future is to invent it.” — Alan Kay
-
-> “Stay hungry, stay foolish.” — Steve Jobs
-
-> **Curiosity drives me, but commitment keeps me going.**
-
-
 <div align="center"><strong><h2>🎮 Gamer Side</h2></strong></div>
 
 Besides being a programmer, I enjoy playing games during my free time.  
