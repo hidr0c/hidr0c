@@ -57,6 +57,6 @@ Here are a few places where you can find me online:
 - 🎮 [YouTube](https://www.youtube.com/@hidr0712) • [Facebook](https://www.facebook.com/h1dr0c/)
 - 
 <div align="center">
-![Hidr0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hidr0c&show_icons=true&theme=radical&border_color=00ffc3)  
+<img src="https://github-readme-stats.vercel.app/api?username=hidr0c&show_icons=true&theme=radical&border_color=00ffc3"/>
 </div>
 
