@@ -1,3 +1,8 @@
+<div align= "center"> <img src="https://github.com/hidr0c/pxt-image-archives/blob/f260f9a134ba9e5bb40fce6c382bc978fa278f48/SITL%20(no%20text)%202560x1600%20trim.png"/>
+<br/>
+  <a href="https://youtu.be/zqH9qgVNzHI?si=38i2l4-v-c6OfkkG&t=101">Straight into the light. I've found myself defeated.</a>
+</div>
+
 <div align="center"><strong><h1>👋 Introduction</h1></strong></div>
 
 Hi, I’m **Phan Xuân Thái** — a developer, event planner, and team leader who enjoys building purposeful and engaging software.  
