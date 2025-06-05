@@ -17,14 +17,14 @@ Driven by curiosity and a commitment to quality, I thrive in collaborative envir
 ### 👨‍💻 Languages & Frameworks
 - **C# / ASP.NET** — Web backend & Windows applications  
 - **Java / Android** — Mobile development & object-oriented projects  
-- **HTML / CSS / JS** — Frontend fundamentals  
-- **JavaScript / TypeScript** — React.js & Next.js (Full-stack SPA/SSR)  
+- **HTML / SCSS / JS / Tailwind** — Frontend fundamentals  
+- **JavaScript / TypeScript** — ReactJS & NextJS 
 - **Flutter** — Cross-platform mobile UI
 
 ### 🛠️ Developer Tools
 - Visual Studio, VS Code, Android Studio, IntelliJ IDEA 
 - Git, GitHub
-- MySQL, Firebase, SSMS, MongoDB
+- Firebase, SSMS, MongoDB
 
 ### 🖥️ IT & Hardware
 - **PC Hardware Troubleshooting & Repairs**  
