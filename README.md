@@ -12,7 +12,7 @@ Driven by curiosity and a commitment to quality, I thrive in collaborative envir
 - **Host** of [MSOC](https://www.linkedin.com/posts/xu%C3%A2n-th%C3%A1i-phan-bab693352_msoc-2024-my-first-step-in-esports-event-activity-7300042302784233472-0Zwe?utm_source=share&utm_medium=member_desktop) (maimai Student Open Cup)
 
 
-<div align="center"><strong><h2>💻 Tech Stack & Tools</h2></strong></div>
+<div align="center"><strong><h2>Tech Stack & Tools</h2></strong></div>
 
 ### Languages & Frameworks
 - **C# / ASP.NET** — Web backend & Windows applications  
