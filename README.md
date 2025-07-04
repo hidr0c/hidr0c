@@ -18,7 +18,7 @@ Driven by curiosity and a commitment to quality, I thrive in collaborative envir
 - **C# / ASP.NET** — Web backend & Windows applications  
 - **Java / Android** — Mobile development & object-oriented projects  
 - **HTML / SCSS / JS / Tailwind** — Frontend fundamentals  
-- **JavaScript / TypeScript** — ReactJS & NextJS 
+- **JavaScript / TypeScript** — React & Next.js 
 - **Flutter** — Cross-platform mobile UI
 
 ###  Developer Tools
