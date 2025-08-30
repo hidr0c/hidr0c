@@ -59,7 +59,7 @@ Here are a few places where you can find me online:
 - [hidr0.id.vn](https://hidr0.id.vn)  
 - [phanxuanthai2004@gmail.com](mailto:phanxuanthai2004@gmail.com)  
 - [LinkedIn](https://www.linkedin.com/in/xu%C3%A2n-th%C3%A1i-phan-bab693352/)  
-- [YouTube](https://www.youtube.com/@hidr0712) • [Facebook](https://www.facebook.com/h1dr0c/)
+- [YouTube](https://www.youtube.com/@hidr0712) • [Facebook]([https://www.facebook.com/h1dr0c/](https://www.facebook.com/profile.php?id=100079297945837))
   
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=hidr0c&show_icons=true&theme=radical&border_color=00ffc3"/>
