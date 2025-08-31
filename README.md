@@ -32,7 +32,7 @@ Driven by curiosity and a commitment to quality, I thrive in collaborative envir
 - **Remote IT Support (Help Desk)**
 
 ### Creative Suite
-- Photoshop, Illustrator, Lightroom  
+- Photoshop, Illustrator, Lightroom, Figma  
 - Vegas Pro (Video Editing)
 
 <div align="center"><strong><h2>Gamer Side</h2></strong></div>
