@@ -8,7 +8,8 @@
 Hi, I’m **Phan Xuân Thái** — a developer, event planner, and team leader who enjoys building purposeful and engaging software.  
 Driven by curiosity and a commitment to quality, I thrive in collaborative environments and always seek to learn something new.
 
--  **Event Planner & Team Leader** at Area 57 Studio  
+- **Former Event Planner & Team Leader** at Area 57 Studio
+- **Event Planner & Team Leader** at Soralia Studio 
 - **Host** of [MSOC](https://www.linkedin.com/posts/xu%C3%A2n-th%C3%A1i-phan-bab693352_msoc-2024-my-first-step-in-esports-event-activity-7300042302784233472-0Zwe?utm_source=share&utm_medium=member_desktop) (maimai Student Open Cup)
 
 
